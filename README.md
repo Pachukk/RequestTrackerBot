@@ -2,8 +2,6 @@
 
 This is a Request Tracker Bot repo, It is for those who upload content like movies, anime, etc. It can be used for tracking request of content that your members asked for.
 
-The owner of this bot is [AJTimePyro](https://t.me/AJTimePyro), His Telegram [Channel](http://t.me/AJPyroVerse) & [Group](http://t.me/AJPyroVerseGroup).
-Don't Forget to give a Star.
 
 ## Some ScreenShots
 These ScreenShots might help you to understand this bot well.
